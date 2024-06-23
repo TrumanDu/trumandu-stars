@@ -2079,6 +2079,7 @@
 
 ## others 
 
+- [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
 - [googlefonts/opensans](https://github.com/googlefonts/opensans) - Open Sans font
 - [joye61/pic-smaller](https://github.com/joye61/pic-smaller) - Pic Smaller – Compress JPEG, PNG, WEBP, AVIF, SVG and GIF images intelligently
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
