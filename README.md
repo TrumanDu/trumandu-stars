@@ -1061,7 +1061,7 @@
 - [wzhe06/Reco-papers](https://github.com/wzhe06/Reco-papers) - Classic papers and resources on recommendation
 - [jeykigung/P5](https://github.com/jeykigung/P5) - 
 - [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
-- [jackhawks/rectg](https://github.com/jackhawks/rectg) - After careful selection, we've picked the best from over 5000 Telegram groups, channels, and bots.
+- [jackhawks/rectg](https://github.com/jackhawks/rectg) - We have meticulously selected the best resources from over 5000 Telegram groups, channels, and bots. All content in this project is sourced from the internet and is intended solely for learning and te
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [jncraton/languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models in 512MB of RAM
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
