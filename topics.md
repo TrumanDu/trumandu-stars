@@ -2089,6 +2089,7 @@
 
 ## others 
 
+- [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [hkneptune/FreeFileSync](https://github.com/hkneptune/FreeFileSync) - A Copy of FreeFileSync Source Code. This repository is just a mirror of the FreeFileSync source code. Please do not send pull requests. Submit issues to the official forum (https://freefilesync.org/fo
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
@@ -2215,7 +2216,7 @@
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [hf200012/oceanus.bi](https://github.com/hf200012/oceanus.bi) - 这是一个可自由拖拽的BI可视化系统  支持主流的关系数据：MySQL，Oracle，PostgreSQL等  同时支持Apache Doris
 - [waylau/netty-4-user-guide](https://github.com/waylau/netty-4-user-guide) - Chinese translation of Netty 4.x User Guide. 中文翻译《Netty 4.x 用户指南》
-- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100:2024年系统架构设计师（软考高级）备考资料。
+- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2024年系统架构设计师（软考高级）备考资料。
 - [TrumanDu/go-tools](https://github.com/TrumanDu/go-tools) - 
 - [marmotedu/geekbang-go](https://github.com/marmotedu/geekbang-go) - 极客时间 《Go 语言项目开发实战》课程补充教程。
 - [jd-opensource/joyqueue](https://github.com/jd-opensource/joyqueue) - A cloud-native production-quality messaging platform with high performance
