@@ -2284,7 +2284,6 @@
 - [tidwall/evio](https://github.com/tidwall/evio) - Fast event-loop networking for Go
 - [bjmashibing/NettyStudy](https://github.com/bjmashibing/NettyStudy) - IO与Netty的学习
 - [linkedin/Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking
-- [confluentinc/rest-utils](https://github.com/confluentinc/rest-utils) - Utilities and a small framework for building REST services with Jersey, Jackson, and Jetty.
 - [grepplabs/kafka-proxy](https://github.com/grepplabs/kafka-proxy) - Proxy connections to Kafka cluster. Connect through SOCKS Proxy, HTTP Proxy or to cluster running in Kubernetes.
 - [alphali/godis](https://github.com/alphali/godis) - redis golang implementation
 - [ZTO-Express/zms](https://github.com/ZTO-Express/zms) - ZMS是ZTO Message Service的缩写，使用方与集群解耦，屏蔽各消息集群差异，并对消息集群进行安装、管理、监控、告警管理的平台。
@@ -3044,7 +3043,6 @@
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [NLPchina/elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) - Use SQL to query Elasticsearch
 - [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD) - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
