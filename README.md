@@ -410,7 +410,6 @@
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的测试管理和接口测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [bjmashibing/NettyStudy](https://github.com/bjmashibing/NettyStudy) - IO与Netty的学习
-- [confluentinc/rest-utils](https://github.com/confluentinc/rest-utils) - Utilities and a small framework for building REST services with Jersey, Jackson, and Jetty.
 - [ZTO-Express/zms](https://github.com/ZTO-Express/zms) - ZMS是ZTO Message Service的缩写，使用方与集群解耦，屏蔽各消息集群差异，并对消息集群进行安装、管理、监控、告警管理的平台。
 - [netease-im/camellia](https://github.com/netease-im/camellia) - Camellia provide easy-to-use server toolkits, such as: redis proxy、delay queue、id gen、hot key and more
 - [infinispan/infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
@@ -493,7 +492,6 @@
 - [xaecbd/RCT](https://github.com/xaecbd/RCT) - RCT (Redis Computed Tomography) include parse redis rdb , slowlog analyze and clientlist analyze
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [xaecbd/kmanager](https://github.com/xaecbd/kmanager) - Kafka manager, monitor consumer based kafka information, include near realtime offset/lag information.
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications.
 - [ltsopensource/light-task-scheduler](https://github.com/ltsopensource/light-task-scheduler) - Distributed Scheduled Job Framework
 - [apache/samza](https://github.com/apache/samza) - Mirror of Apache Samza
 - [apache/incubator-seata](https://github.com/apache/incubator-seata) - :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
