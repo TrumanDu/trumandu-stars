@@ -1196,6 +1196,7 @@
 
 ## TypeScript 
 
+- [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
