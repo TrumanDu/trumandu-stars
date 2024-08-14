@@ -2238,7 +2238,7 @@
 - [huangfox/dpkb](https://github.com/huangfox/dpkb) - 大数据相关内容汇总，包括分布式存储引擎、分布式计算引擎、数仓建设等。关键词：Hadoop、HBase、ES、Kudu、Hive、Presto、Spark、Flink、Kylin、ClickHouse
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
+- [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux
 - [CN-GuoZiyang/MYDB](https://github.com/CN-GuoZiyang/MYDB) - 一个简单的数据库实现
 - [TrumanDu/TDA](https://github.com/TrumanDu/TDA) - A person assistant desktop apps
 - [unlight/tailwind-components](https://github.com/unlight/tailwind-components) - Collection of components found on the internet
