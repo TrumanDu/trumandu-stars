@@ -60,7 +60,6 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
-- [ember](#ember)
 - [emoji](#emoji)
 - [english](#english)
 - [es6](#es6)
@@ -224,6 +223,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.1, Mistral, Phi & Gemma LLMs 2-5x faster with 80% less memory
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [xszyou/Fay](https://github.com/xszyou/Fay) - Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides,
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
@@ -699,7 +699,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [redis/riot](https://github.com/redis/riot) - 🧨 Get data in & out of Redis with RIOT
@@ -824,7 +824,6 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code插件开发文档-中文版
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -882,10 +881,6 @@
 
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [tonivade/claudb](https://github.com/tonivade/claudb) - ClauDB is a REDIS implementation in Java
-
-## ember 
-
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## emoji 
 
@@ -1093,7 +1088,7 @@
 - [atomix/atomix](https://github.com/atomix/atomix) - A Kubernetes toolkit for building distributed applications using cloud native principles
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [syndtr/goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
@@ -1236,7 +1231,7 @@
 - [silenceper/pool](https://github.com/silenceper/pool) - 🚌 A golang general network connection poolction pool
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1364,7 +1359,7 @@
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Fast and Scalable Channels in Java
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel  spring boot starter
+- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
@@ -2130,6 +2125,7 @@
 
 ## others 
 
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
@@ -2999,7 +2995,7 @@
 
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
-- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel  spring boot starter
+- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 - [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
@@ -3027,7 +3023,7 @@
 ## spring-boot 
 
 - [ballcat-projects/ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
-- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel  spring boot starter
+- [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
 - [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 - [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
@@ -3083,7 +3079,7 @@
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [kawamuray/kmql](https://github.com/kawamuray/kmql) - Query Kafka cluster's metadata using SQL
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
