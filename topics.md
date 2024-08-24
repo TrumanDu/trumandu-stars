@@ -1833,6 +1833,7 @@
 
 ## machine-learning 
 
+- [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [jbellis/jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
 - [datawhalechina/fun-rec](https://github.com/datawhalechina/fun-rec) - 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/
