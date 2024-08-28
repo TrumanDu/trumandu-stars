@@ -57,6 +57,7 @@
 
 ## C 
 
+- [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc  全平台通用换源工具与框架. Change Source for every software on every platform from the command line.
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [JamesYYang/jecho](https://github.com/JamesYYang/jecho) - A Mini Http Server for Research Purpose
 - [JamesYYang/my-bpf](https://github.com/JamesYYang/my-bpf) - use ebpf to monitor system
@@ -1379,7 +1380,7 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [geek-fun/dockit](https://github.com/geek-fun/dockit) - DocKit | GUI clients for elasticsearch, opensearch and etc
+- [geek-fun/dockit](https://github.com/geek-fun/dockit) - Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [baiy/Ctool](https://github.com/baiy/Ctool) - 程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
