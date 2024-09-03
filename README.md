@@ -274,6 +274,7 @@
 
 ## HTML 
 
+- [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
 - [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -1202,6 +1203,7 @@
 
 ## TypeScript 
 
+- [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
