@@ -226,6 +226,7 @@
 
 ## ai 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Efficiently Fine-Tune 100+ LLMs in WebUI (ACL 2024)
@@ -477,6 +478,7 @@
 
 ## chatgpt 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -679,6 +681,7 @@
 
 ## data 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [redis/riot](https://github.com/redis/riot) - 🧨 Get data in & out of Redis with RIOT
@@ -1852,6 +1855,7 @@
 
 ## low-code 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2081,6 +2085,7 @@
 
 ## nextjs 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
@@ -2194,6 +2199,7 @@
 
 ## openai 
 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
