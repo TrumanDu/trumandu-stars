@@ -774,7 +774,7 @@
 - [TrumanDu/bmap](https://github.com/TrumanDu/bmap) - An awesome Kibana plugin for bmap
 - [TrumanDu/indices_view](https://github.com/TrumanDu/indices_view) - An awesome kibana plugin for view indies!
 - [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) - 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验
-- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+- [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [jaredreich/pell](https://github.com/jaredreich/pell) - 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
 - [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) - SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品的移动端UI库，轻量精美
