@@ -649,7 +649,7 @@
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1057,7 +1057,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
-- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 - [juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline) - 📝 Front-end Guideline by Juntos Somos Mais
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
@@ -1611,7 +1611,7 @@
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [ant-design/ant-motion](https://github.com/ant-design/ant-motion) - :bicyclist: Animate specification and components of Ant Design
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
@@ -1738,7 +1738,7 @@
 
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend) - 你想知道的前端内容都在这
 
