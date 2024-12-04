@@ -228,7 +228,7 @@
 ## ai 
 
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
@@ -314,6 +314,7 @@
 
 ## api 
 
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV 
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
@@ -491,7 +492,7 @@
 ## chatgpt 
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -795,6 +796,7 @@
 
 ## design 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
@@ -821,8 +823,10 @@
 
 ## docker 
 
+- [qd-today/qd](https://github.com/qd-today/qd) - QD [v20240210] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV 
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [tech-shrimp/docker_image_pusher](https://github.com/tech-shrimp/docker_image_pusher) - 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
@@ -836,7 +840,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [kleveross/ormb](https://github.com/kleveross/ormb) - Docker for Your ML/DL Models Based on OCI Artifacts
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [corretto/corretto-docker](https://github.com/corretto/corretto-docker) - Dockerfiles for Amazon Corretto Official images.
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
@@ -1470,7 +1474,7 @@
 - [noear/snack3](https://github.com/noear/snack3) - High-performance Jsonpath framework
 - [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules.
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
-- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java "ecological" application development Framework: Restrained, concise, EFFICIENT, OPEN, ECOLOGICAL!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Co
+- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 A Scene-oriented Java Application Development Framework: Restrained, Efficient, Open, Ecological!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compat
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -1584,6 +1588,7 @@
 
 ## javascript 
 
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
@@ -1834,7 +1839,7 @@
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [JamesYYang/my-bpf](https://github.com/JamesYYang/my-bpf) - use ebpf to monitor system
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -2125,7 +2130,7 @@
 
 ## nextjs 
 
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
@@ -2241,7 +2246,7 @@
 ## openai 
 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
@@ -2292,10 +2297,9 @@
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [corbt/agent.exe](https://github.com/corbt/agent.exe) - 
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source upd
 - [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - 基于 WechatFerry 的微信机器人底层框架
 - [LehengTHU/Agent4Rec](https://github.com/LehengTHU/Agent4Rec) - [SIGIR 2024 perspective] The implementation of paper "On Generative Agents in Recommendation"
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
@@ -3049,7 +3053,7 @@
 
 ## rest-api 
 
-- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java "ecological" application development Framework: Restrained, concise, EFFICIENT, OPEN, ECOLOGICAL!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Co
+- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 A Scene-oriented Java Application Development Framework: Restrained, Efficient, Open, Ecological!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compat
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [strapdata/elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
@@ -3399,6 +3403,7 @@
 
 ## typescript 
 
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [typestack/class-validator](https://github.com/typestack/class-validator) - Decorator-based property validation for classes.
