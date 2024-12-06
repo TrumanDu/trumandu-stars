@@ -1247,6 +1247,7 @@
 
 ## TypeScript 
 
+- [coleam00/bolt.new-any-llm](https://github.com/coleam00/bolt.new-any-llm) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 - [TrumanDu/toolkit](https://github.com/TrumanDu/toolkit) - toolkit
 - [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) - This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...
@@ -1413,6 +1414,7 @@
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [Jigsaw-Code/outline-apps](https://github.com/Jigsaw-Code/outline-apps) - Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them 
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
