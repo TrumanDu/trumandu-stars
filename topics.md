@@ -1478,7 +1478,7 @@
 - [noear/snack3](https://github.com/noear/snack3) - High-performance Jsonpath framework
 - [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules.
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
-- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 All Scene-oriented Java Application Development Framework: Restrained, Efficient, Open, Ecological!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Comp
+- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java Application Development Framework for Full Scenario: Restrained, Efficient, Open, Ecologicall!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Comp
 - [Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -3065,7 +3065,7 @@
 
 ## rest-api 
 
-- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 All Scene-oriented Java Application Development Framework: Restrained, Efficient, Open, Ecological!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Comp
+- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java Application Development Framework for Full Scenario: Restrained, Efficient, Open, Ecologicall!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Comp
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [strapdata/elassandra](https://github.com/strapdata/elassandra) - Elassandra = Elasticsearch + Apache Cassandra
