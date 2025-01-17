@@ -1067,7 +1067,7 @@
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [LehengTHU/Agent4Rec](https://github.com/LehengTHU/Agent4Rec) - [SIGIR 2024 perspective] The implementation of paper "On Generative Agents in Recommendation"
