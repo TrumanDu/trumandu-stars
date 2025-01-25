@@ -367,7 +367,7 @@
 - [aws/event-ruler](https://github.com/aws/event-ruler) - Event Ruler is a Java library that allows matching many thousands of Events per second to any number of expressive and sophisticated rules.
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 - [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、
-- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java Application Development Framework for Full Scenario: Restrained, Efficient, Open, Ecologicall!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Comp
+- [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 300% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% s
 - [dataease/dataease](https://github.com/dataease/dataease) - 🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
 - [DataLinkDC/dinky](https://github.com/DataLinkDC/dinky) - Dinky is a real-time data development platform based on Apache Flink, enabling agile data development, deployment and operation.
@@ -573,7 +573,7 @@
 - [ScienJus/smartqq](https://github.com/ScienJus/smartqq) - SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人 a qq robot based on smartqq (webqq) api
 - [hellokaton/30-seconds-of-java8](https://github.com/hellokaton/30-seconds-of-java8) - 30 seconds to collect useful Java 8 snippet.
 - [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey and Redis Java client. Complete Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey and Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, 
 - [LeonardoZ/java-concurrency-patterns](https://github.com/LeonardoZ/java-concurrency-patterns) - Concurrency Patterns and features found in Java, through multithreaded programming. Threads, Locks, Atomics and more.
 - [hellokaton/java-library-examples](https://github.com/hellokaton/java-library-examples) - 💪 example of common used libraries and frameworks, programming required, don't fork man.
 - [HelloChenJinJun/NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
