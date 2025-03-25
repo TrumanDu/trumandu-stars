@@ -230,7 +230,7 @@
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [ribice/gorsk](https://github.com/ribice/gorsk) - :fire: Idiomatic Golang Restful Starter Kit
-- [micro/micro](https://github.com/micro/micro) - An API development platform
+- [micro/micro](https://github.com/micro/micro) - A microservices platform
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [funkygao/gafka](https://github.com/funkygao/gafka) - A full ecosystem that is built around kafka powered by golang
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -912,7 +912,7 @@
 
 ## Others 
 
-- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者出海工具收集站（Awesome Independent developer sea tool collection station）
+- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者工具站（Awesome Independent developer  tools）
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -1080,7 +1080,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [Tencent/Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) - 
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/mEkkMXFG
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持IPv4/IPv6；支持自定义频道；支持本地源、组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
@@ -1275,7 +1275,7 @@
 
 - [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Lanuage Model) that allows you to control your computer using natural language.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
@@ -1306,7 +1306,7 @@
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
