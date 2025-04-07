@@ -1123,7 +1123,7 @@
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly) - Firefly: 大模型训练工具，支持训练Qwen2.5、Qwen2、Yi1.5、Phi-3、Llama3、Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型
-- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用
+- [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
 - [wzhe06/Reco-papers](https://github.com/wzhe06/Reco-papers) - Classic papers and resources on recommendation
 - [jeykigung/P5](https://github.com/jeykigung/P5) - 
 - [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
