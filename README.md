@@ -632,6 +632,7 @@
 
 ## JavaScript 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [gray0128/bob-plugin-MTranServer](https://github.com/gray0128/bob-plugin-MTranServer) - 一个基于MTranServer 的 bob 翻译插件，让你告别用量焦虑和速度焦虑。
 - [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -925,6 +926,7 @@
 - [bboysoulcn/registry-mirror](https://github.com/bboysoulcn/registry-mirror) - 方便地设置和启动各种镜像仓库代理
 - [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books) - :books: 极客时间电子书
 - [madawei2699/xian-IT](https://github.com/madawei2699/xian-IT) - 『西安互联网』二线城市也精彩
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
@@ -1115,7 +1117,6 @@
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [tebelorg/RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [alibaba/EasyRec](https://github.com/alibaba/EasyRec) - A framework for large scale recommendation algorithms.
 - [HeartbreakSurvivor/RsAlgorithms](https://github.com/HeartbreakSurvivor/RsAlgorithms) - all kinds of recommendation algorithms implement.
@@ -1371,7 +1372,7 @@
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
 - [vaayne/NotionAI-Plus](https://github.com/vaayne/NotionAI-Plus) - NotionAI Plus is a browser extension that adds NotionAI's powerful features to any website you visit
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
