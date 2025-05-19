@@ -541,7 +541,7 @@
 - [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
 - [linlinjava/litemall](https://github.com/linlinjava/litemall) - 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端
 - [TrumanDu/redis-manager](https://github.com/TrumanDu/redis-manager) - redis 一站式管理平台，支持集群创建、管理、监控
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [jmxtrans/jmxtrans](https://github.com/jmxtrans/jmxtrans) - jmxtrans
 - [liuyangming/ByteTCC](https://github.com/liuyangming/ByteTCC) - ByteTCC is a distributed transaction manager based on the TCC(Try/Confirm/Cancel) mechanism. It’s compatible with the JTA specification. User guide: https://github.com/liuyangming/ByteTCC/wiki
