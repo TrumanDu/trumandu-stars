@@ -336,6 +336,7 @@
 
 ## Java 
 
+- [beehive-lab/GPULlama3.java](https://github.com/beehive-lab/GPULlama3.java) - GPU-accelerated Llama3.java inference in pure Java using TornadoVM.
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [wgzhao/Addax](https://github.com/wgzhao/Addax) - A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
@@ -1082,6 +1083,8 @@
 
 ## Python 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [chenningling/Redbook-Search-Comment-MCP2.0](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0) - 这是一款基于 Playwright 开发的小红书自动搜索和评论工具，作为 MCP Server，可通过特定配置接入 MCP Client（如Claude for Desktop），帮助用户自动完成登录小红书、搜索关键词、获取笔记内容及发布AI生成评论等操作。
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [piddnad/DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders
