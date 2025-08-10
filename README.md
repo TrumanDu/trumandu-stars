@@ -49,7 +49,7 @@
 
 ## Astro 
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
 
 ## C 
 
@@ -171,7 +171,7 @@
 
 ## Go 
 
-- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - The most simple, powerful and beautiful server control panel, open source alternative to OpenResty Edge.
+- [Safe3/openresty-manager](https://github.com/Safe3/openresty-manager) - Modern, secure, and elegant server control panel, open source alternative to OpenResty Edge.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
@@ -1121,7 +1121,7 @@
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull) - 📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting!
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -1338,7 +1338,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
-- [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine) - A text search engine that supports mixed Chinese and English fuzzy search.
+- [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine) - A text search engine that supports mixed Chinese and English fuzzy search.支持中(拼音)英文混合模糊搜索的算法
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
