@@ -1040,7 +1040,7 @@
 - [CL0610/Java-concurrency](https://github.com/CL0610/Java-concurrency) - Java并发知识点总结
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [xiaobei666/weixin-xiaochengxu666-info](https://github.com/xiaobei666/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
+- [bayma888/weixin-xiaochengxu666-info](https://github.com/bayma888/weixin-xiaochengxu666-info) - 微信小程序开发框架、资源-干货汇总
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -1352,7 +1352,7 @@
 - [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - -
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click ins
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
 - [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine) - A lightweight text search engine that supports mixed Chinese (Pinyin) and English fuzzy search.轻量级支持中文（拼音）与英文混合模糊搜索的算法
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
