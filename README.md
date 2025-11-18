@@ -34,6 +34,7 @@
 - [Pug](#pug)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1083,6 +1084,8 @@
 
 ## Python 
 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine.
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) - Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 - [TrumanDu/myboot](https://github.com/TrumanDu/myboot) - MyBoot - Python rapid development framework inspired by Spring Boot 类似 Spring Boot 的 Python 快速开发框架
 - [alibaba/TorchEasyRec](https://github.com/alibaba/TorchEasyRec) - An easy-to-use framework for large scale recommendation algorithms.
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
@@ -1205,6 +1208,10 @@
 ## Rich Text Format 
 
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
+
+## Roff 
+
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
