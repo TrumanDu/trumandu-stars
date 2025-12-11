@@ -389,7 +389,7 @@
 - [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) - Spring based shell
 - [verhas/License3j](https://github.com/verhas/License3j) - Free Licence Management Library
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
-- [pagehelper/pagehelper-spring-boot](https://github.com/pagehelper/pagehelper-spring-boot) - pagehelper-spring-boot
+- [ruiqianyi/pagehelper-spring-boot](https://github.com/ruiqianyi/pagehelper-spring-boot) - pagehelper-spring-boot
 - [xwjie/PLMCodeTemplate](https://github.com/xwjie/PLMCodeTemplate) - 给部门制定的代码框架模板
 - [xaecbd/KCenter](https://github.com/xaecbd/KCenter) - KCenter(KafkaCenter) is a unified  platform for kafka cluster management and maintenance, producer / consumer monitoring, and use of ecological components(ksql/kafka connect).it's kafkacenter(kafka ce
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
@@ -598,7 +598,7 @@
 - [chickling/kmanager](https://github.com/chickling/kmanager) - Kafka manager, monitor consumer based kafka information, include near realtime offset/lag information.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-- [pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper) - Mybatis通用分页插件
+- [ruiqianyi/Mybatis-PageHelper](https://github.com/ruiqianyi/Mybatis-PageHelper) - Mybatis通用分页插件
 - [abel533/MyBatis-Spring-Boot](https://github.com/abel533/MyBatis-Spring-Boot) - Spring Boot集成MyBatis的基础项目
 - [brianway/springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning) - SpringMVC 和 MyBatis 学习笔记，搭配示例，主要讲解一些基础的概念、用法和配置
 - [AbrahamCaiJin/CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) - 快速开发工具类收集，史上最全的开发工具类，欢迎Follow、Fork、Star
