@@ -1489,7 +1489,7 @@
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - React + Vue Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components.
 - [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
 - [alibaba-fusion/materials](https://github.com/alibaba-fusion/materials) - 基于 icejs+fusion 的官方精品物料
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
