@@ -143,6 +143,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -454,7 +455,7 @@
 
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；频道自定义；个性化配置；订阅源/组播源/酒店源/本地源；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：频道自定义；个性化配置；IPv4/IPv6；接口验效；推流；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [WLiK/LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) - A list of awesome papers and resources of recommender system on large language model (LLM).
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1918,7 +1919,7 @@
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [crsandeep/simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack) - Boilerplate to build a full stack web application using React, Node.js, Express and Webpack.
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [baidu/san](https://github.com/baidu/san) - A fast, portable, flexible JavaScript component framework
@@ -2310,6 +2311,22 @@
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [spotify/dockerfile-maven](https://github.com/spotify/dockerfile-maven) - MATURE: A set of Maven tools for dealing with Dockerfiles
 - [spotify/docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - INACTIVE: A maven plugin for Docker
+
+## mcp 
+
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [opensumi/core](https://github.com/opensumi/core) - A framework helps you quickly build AI Native IDE products. MCP Client, supports Model Context Protocol (MCP) tools via MCP server.
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥AI low-code platform empowers enterprises to quickly develop low-code solutions and build AI applications.  助力企业快速实现低代码开发和构建AI应用！ AI应用平台涵盖：AI应用、AI模型、AI聊天助手、知识库、AI流程编排、MCP和插件，聊天式业务操作等。 强大代码生成器：实现前后端一键
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 ## microservices 
 
