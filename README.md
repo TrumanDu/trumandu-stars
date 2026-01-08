@@ -340,7 +340,7 @@
 - [wgzhao/Addax](https://github.com/wgzhao/Addax) - A fast and versatile ETL tool that can transfer data between RDBMS and NoSQL seamlessly
 - [Eanya-Tonic/CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
+- [LangChat/langchat](https://github.com/LangChat/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) - mybatis-generator界面工具，让你生成代码更简单更快捷
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [dylibso/chicory](https://github.com/dylibso/chicory) - Native JVM WebAssembly runtime
@@ -1389,6 +1389,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [alibaba/f2e-spec](https://github.com/alibaba/f2e-spec) - Alibaba Front-end Coding Guidelines and Relevant Tools
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+- [geek-fun/dockit](https://github.com/geek-fun/dockit) - Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [Tencent/wujie](https://github.com/Tencent/wujie) - 极致的微前端框架
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1566,7 +1567,6 @@
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 - [Tencent/tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [geek-fun/dockit](https://github.com/geek-fun/dockit) - Elasticsearch GUI client for Mac, windows and linux, Opensearch GUI client for Mac, windows and linux
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
 - [lcomplete/TechShare](https://github.com/lcomplete/TechShare) - 🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。
