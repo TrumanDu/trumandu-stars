@@ -460,7 +460,7 @@
 
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成流程🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
+- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [WLiK/LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) - A list of awesome papers and resources of recommender system on large language model (LLM).
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
