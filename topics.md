@@ -2839,7 +2839,7 @@
 - [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) - :coffee: 老司机在 Java 技术领域的十年积累。
 - [hf200012/oceanus.bi](https://github.com/hf200012/oceanus.bi) - 这是一个可自由拖拽的BI可视化系统  支持主流的关系数据：MySQL，Oracle，PostgreSQL等  同时支持Apache Doris
 - [waylau/netty-4-user-guide](https://github.com/waylau/netty-4-user-guide) - Chinese translation of Netty 4.x User Guide. 中文翻译《Netty 4.x 用户指南》
-- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2025年系统架构设计师（软考高级）备考资料。
+- [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2026年系统架构设计师（软考高级）备考资料。
 - [TrumanDu/go-tools](https://github.com/TrumanDu/go-tools) - 
 - [marmotedu/geekbang-go](https://github.com/marmotedu/geekbang-go) - 极客时间 《Go 语言项目开发实战》课程补充教程。
 - [jd-opensource/joyqueue](https://github.com/jd-opensource/joyqueue) - A cloud-native production-quality messaging platform with high performance
@@ -2970,7 +2970,7 @@
 - [binbibi/XTeamLView](https://github.com/binbibi/XTeamLView) - 每次启动Teamview都生成不一样的ID,让Teamview 不弹窗 疑似商业活动
 - [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
 - [wildfirechat/im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统
-- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
+- [Quorafind/golang-developer-roadmap-cn-2021](https://github.com/Quorafind/golang-developer-roadmap-cn-2021) - [UNMAINTAINED] 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。
 - [lets-blade/blade](https://github.com/lets-blade/blade) - :rocket: Lightning fast and elegant mvc framework for Java8
 - [facebookarchive/redis-faina](https://github.com/facebookarchive/redis-faina) - A query analyzer that parses Redis' MONITOR command for counter/timing stats about query patterns
 - [sofastack/sofa-boot](https://github.com/sofastack/sofa-boot) - SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc.
