@@ -1008,7 +1008,7 @@
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
 - [wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData) - 专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...
-- [ntegrals/SoftwareArchitect](https://github.com/ntegrals/SoftwareArchitect) - Path to a Software Architect
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java) - Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).
 - [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
 - [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) - Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
