@@ -852,7 +852,7 @@
 - [etimbo/jquery-print-preview-plugin](https://github.com/etimbo/jquery-print-preview-plugin) - jQuery plugin for print preview (modal window)
 - [jsonzou/jquery-printFinal](https://github.com/jsonzou/jquery-printFinal) - printFinal是一款基于jQuery的打印插件。支持打印预览。目前版本1.0，作者JsonZou。
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
+- [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 - [tanathos/jquery.jqprint](https://github.com/tanathos/jquery.jqprint) - jQuery print plugin
 - [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
 - [EthanLin-TWer/translation-spring-mvc-4-documentation](https://github.com/EthanLin-TWer/translation-spring-mvc-4-documentation) - Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿
@@ -1340,6 +1340,8 @@
 
 ## TypeScript 
 
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
