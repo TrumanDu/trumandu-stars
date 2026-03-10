@@ -562,7 +562,7 @@
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
@@ -1423,7 +1423,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 ## golang 
@@ -2237,7 +2237,7 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links) - A list of useful Java frameworks, libraries, software and hello worlds examples
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -2246,6 +2246,7 @@
 
 ## macos 
 
+- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 - [cosZone/MoePeek](https://github.com/cosZone/MoePeek) - A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，
 - [blueberrycongee/CursorLens](https://github.com/blueberrycongee/CursorLens) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -2667,7 +2668,6 @@
 ## others 
 
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
-- [SuperCmdLabs/SuperCmd](https://github.com/SuperCmdLabs/SuperCmd) - What Apple Intelligence should have been
 - [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost) - 🚀 一键打造现代化终端环境 - Oh My Zsh + Powerlevel10k + 现代 CLI 工具套装
 - [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 - [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
@@ -2689,7 +2689,7 @@
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [CristiFati/Prebuilt-Binaries](https://github.com/CristiFati/Prebuilt-Binaries) - Various software built on various platforms.
 - [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md) - A modern, user-friendly web application that converts PDF documents to clean, formatted Markdown text.
-- [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
+- [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 搞快点
 - [Conxt/WindowGlue](https://github.com/Conxt/WindowGlue) - A simple macOS menu bar utility that lets you glue two windows together so that they behave (mostly) as one.
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
 - [AkiraBit/PicSharp](https://github.com/AkiraBit/PicSharp) - A modern, full-featured, high-performance, cross-platform image compression application  具有现代化UI、功能齐全、高性能、跨平台的图像压缩工具
@@ -3684,7 +3684,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [TrumanDu/autocomplate-shell](https://github.com/TrumanDu/autocomplate-shell) - This extension adds rich language support for the shell script to VS Code
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -4327,6 +4327,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
