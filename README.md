@@ -1165,7 +1165,7 @@
 - [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram 优质中文频道与群组自动化导航站。持续追踪 1000+ 节点，智能过滤死群、引流广告与有害内容，为您提供最纯粹的 TG 中文资源精选库。
 - [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -1335,7 +1335,7 @@
 
 ## TeX 
 
-- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》
+- [openmlsys/openmlsys](https://github.com/openmlsys/openmlsys) - 《Machine Learning Systems: Design and Implementation》 (V2 is launching soon）
 
 ## TypeScript 
 
