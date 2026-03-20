@@ -499,7 +499,7 @@
 - [grpc/grpc-java](https://github.com/grpc/grpc-java) - The Java gRPC implementation. HTTP/2 based RPC
 - [gaoshengnan/LeetCode](https://github.com/gaoshengnan/LeetCode) - 持之以恒的练习算法，让基础更扎实，让逻辑思维更强，加油
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
-- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [tensorhero-dev/staffjoy](https://github.com/tensorhero-dev/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 - [seaswalker/jdk-sourcecode-analysis](https://github.com/seaswalker/jdk-sourcecode-analysis) - JDK源码阅读笔记
 - [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) - Micronaut Application Framework
 - [dropwizard/metrics](https://github.com/dropwizard/metrics) - :chart_with_upwards_trend: Capturing JVM- and application-level metrics. So you know what's going on.
@@ -1256,6 +1256,7 @@
 
 ## Shell 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost) - 🚀 一键打造现代化终端环境 - Oh My Zsh + Powerlevel10k + 现代 CLI 工具套装
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
