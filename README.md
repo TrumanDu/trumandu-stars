@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 - [swigger/wechat-ocr](https://github.com/swigger/wechat-ocr) - 
@@ -639,7 +640,7 @@
 
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
 - [murtaza-nasir/pdf3md](https://github.com/murtaza-nasir/pdf3md) - A modern, user-friendly web application that converts PDF documents to clean, formatted Markdown text.
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: DOM Capture Engine – Fast and Accurate HTML Conversion
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 - [pbstar/fitview](https://github.com/pbstar/fitview) - fitview 是一个视口自适应 js 插件，它支持多种适配模式，能够快速实现大屏自适应效果。
 - [SimonAKing/AnimatedGallery](https://github.com/SimonAKing/AnimatedGallery) - A beautiful and modern photo gallery application
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
@@ -1340,6 +1341,7 @@
 
 ## TypeScript 
 
+- [nanbingxyz/wechat-channel](https://github.com/nanbingxyz/wechat-channel) - 将微信接入为任意系统的统一消息通道
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
