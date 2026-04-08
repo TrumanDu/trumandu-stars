@@ -284,7 +284,7 @@
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [LlamaChinese/Llama-Chinese](https://github.com/LlamaChinese/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [qunarcorp/bistoury](https://github.com/qunarcorp/bistoury) - Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案
@@ -1073,7 +1073,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [kleveross/ormb](https://github.com/kleveross/ormb) - Docker for Your ML/DL Models Based on OCI Artifacts
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [corretto/corretto-docker](https://github.com/corretto/corretto-docker) - Dockerfiles for Amazon Corretto Official images.
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [adoptium/containers](https://github.com/adoptium/containers) - Repo containing the dockerfiles and scripts to produce the official eclipse-temurin containers.
@@ -1115,6 +1115,7 @@
 
 ## documentation 
 
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2089,7 +2090,7 @@
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [caicloud/kube-ladder](https://github.com/caicloud/kube-ladder) - Learning Kubernetes, The Chinese Taoist Way
-- [hellobyte-dev/staffjoy](https://github.com/hellobyte-dev/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.
 - [Qihoo360/wayne](https://github.com/Qihoo360/wayne) - Kubernetes multi-cluster management and publishing platform
@@ -2133,7 +2134,7 @@
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [JamesYYang/my-bpf](https://github.com/JamesYYang/my-bpf) - use ebpf to monitor system
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -2323,6 +2324,7 @@
 
 ## markdown 
 
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gcui-art/markdown-to-image](https://github.com/gcui-art/markdown-to-image) - This React component is used to render Markdown into a beautiful poster image, with support for copying as an image. Md to Poster/Image/Quote/Card/Instagram/Twitter/Facebook...
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
@@ -2568,6 +2570,7 @@
 
 ## nodejs 
 
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [caoccao/Javet](https://github.com/caoccao/Javet) - Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js and V8 in Java.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
@@ -2615,6 +2618,7 @@
 
 ## npm 
 
+- [docmd-io/docmd](https://github.com/docmd-io/docmd) - Generate minimal, fast & beautiful docs from Markdown. No React, no bloat, just content. Built for developers.
 - [cjinhuo/text-search-engine](https://github.com/cjinhuo/text-search-engine) - A lightweight text search engine that supports mixed Chinese (Pinyin) and English fuzzy search.支持中文（拼音）与英文混合模糊搜索的轻量级算法
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -2700,6 +2704,7 @@
 
 ## others 
 
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) - A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI inst
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
 - [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - A growing set of skills to polish interfaces built by agents.
@@ -3792,7 +3797,7 @@
 - [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) - :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [sqshq/piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
-- [hellobyte-dev/staffjoy](https://github.com/hellobyte-dev/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
+- [spring2go/staffjoy](https://github.com/spring2go/staffjoy) - 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc
