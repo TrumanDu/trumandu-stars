@@ -1080,7 +1080,7 @@
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [BretFisher/nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - DockerCon "Docker for Node.js" examples
 - [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -1573,7 +1573,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter) - Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
@@ -1919,7 +1919,7 @@
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [jd-opensource/micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -2068,7 +2068,7 @@
 - [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 - [alibaba/loongcollector](https://github.com/alibaba/loongcollector) - Fast and Lightweight Observability Data Collector
 - [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) - Cloud Native DataOps & AIOps Platform | 云原生数智运维平台
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -2215,7 +2215,7 @@
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
@@ -2552,7 +2552,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
@@ -2584,7 +2584,7 @@
 - [dromara/electron-egg](https://github.com/dromara/electron-egg) - A simple, cross platform, enterprise desktop software development framework
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [BretFisher/nodejs-rocks-in-docker](https://github.com/BretFisher/nodejs-rocks-in-docker) - DockerCon "Docker for Node.js" examples
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [searchkit/searchkit](https://github.com/searchkit/searchkit) - React + Vue Search UI for Elasticsearch & Opensearch. Compatible with Algolia's Instantsearch and Autocomplete components.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -2704,6 +2704,7 @@
 
 ## others 
 
+- [selous123/al_sid](https://github.com/selous123/al_sid) - [Pytorch] The repo contains the code for "FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets"
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [carmahhawwari/ui-design-brain](https://github.com/carmahhawwari/ui-design-brain) - A Cursor skill that gives AI agents real UI component knowledge — best practices, layout patterns, and design-system conventions for 60+ interface components — so it generates production-grade UI inst
 - [better-auth/better-icons](https://github.com/better-auth/better-icons) - Skill and MCP server for searching and retrieving icons
@@ -3568,7 +3569,7 @@
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -3694,7 +3695,7 @@
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [hastic-zzz/hastic-server](https://github.com/hastic-zzz/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana
@@ -4058,7 +4059,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [bytedance/guide](https://github.com/bytedance/guide) - A new feature guide component by react 🧭
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
