@@ -361,7 +361,7 @@
 - [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
 - [apache/hive](https://github.com/apache/hive) - Apache Hive
-- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [coder-amiao/simplest-web](https://github.com/coder-amiao/simplest-web) - 前后端分离项目基于simplest-web可以快速构建基于Web Json API格式的统一通讯交互
 - [mybatis-flex/mybatis-flex](https://github.com/mybatis-flex/mybatis-flex) - mybatis-flex is an elegant Mybatis Enhancement Framework
 - [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing too
