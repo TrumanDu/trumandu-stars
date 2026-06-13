@@ -408,7 +408,7 @@
 - [pinterest/DoctorK](https://github.com/pinterest/DoctorK) - DoctorK is a service for Kafka cluster auto healing and workload balancing
 - [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
 - [luxiaoxun/NettyRpc](https://github.com/luxiaoxun/NettyRpc) - A simple RPC framework based on Netty, ZooKeeper and Spring
-- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 300+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
 - [timboudreau/acteur-tutorial](https://github.com/timboudreau/acteur-tutorial) - A tutorial for the acteur lightweight Netty+Guice server framework
 - [openjdk/jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh
