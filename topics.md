@@ -1468,6 +1468,7 @@
 
 ## github 
 
+- [wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror) - 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
@@ -2388,6 +2389,7 @@
 
 ## macos 
 
+- [wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror) - 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [caezium/Burrow](https://github.com/caezium/Burrow) - 🐹 Cleanup, app management, maintenance, disk analysis, and live status in one free, open-source, native Mac app + extensive support for AI agents. Coming to Windows
 - [iliyami/MacSai](https://github.com/iliyami/MacSai) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
@@ -2833,6 +2835,7 @@
 
 ## others 
 
+- [iAmCorey/birth](https://github.com/iAmCorey/birth) - 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
 - [nextpad-plus-plus/nextpad-plus-plus-macos](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) - 
 - [Emily2040/seedance-2.0](https://github.com/Emily2040/seedance-2.0) - Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
