@@ -41,6 +41,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -769,6 +770,10 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效
+
+## claude-skills 
+
+- [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 
 ## cli 
 
