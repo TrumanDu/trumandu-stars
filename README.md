@@ -470,7 +470,7 @@
 - [smacke/jaydio](https://github.com/smacke/jaydio) - A Java library to perform direct I/O in Linux, bypassing file page cache.
 - [openinx/minibase](https://github.com/openinx/minibase) - An embedded KV storage engine for learning HBase
 - [linkedin/brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
-- [linkedin/cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
+- [cruise-control-for-kafka/cruise-control](https://github.com/cruise-control-for-kafka/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kaf
 - [2227324689/gpmall](https://github.com/2227324689/gpmall) - 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch
 - [Nepxion/DiscoveryGuide](https://github.com/Nepxion/DiscoveryGuide) - ☀️ Nepxion Discovery Guide is a guide example for Nepxion Discovery 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活的指南示例
 - [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
@@ -1277,7 +1277,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club) - 《语法俱乐部》- 旋元佑
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
