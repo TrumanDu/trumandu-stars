@@ -60,6 +60,7 @@
 
 ## C 
 
+- [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
@@ -294,6 +295,7 @@
 
 ## HTML 
 
+- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 搞快点
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
 - [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail) - Can I email… Support tables for HTML and CSS in emails.
@@ -505,7 +507,7 @@
 - [Netflix/conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) - Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with 
 - [cerner/common-kafka](https://github.com/cerner/common-kafka) - Common utilities for Apache Kafka
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失
 - [Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode) - :crown: LeetCode of algorithms with java solution(updating).
 - [apache/curator](https://github.com/apache/curator) - Apache Curator
 - [wildfirechat/im-server](https://github.com/wildfirechat/im-server) - 即时通讯(IM)系统
@@ -651,7 +653,7 @@
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [JasonGrass/auto-extension-manager](https://github.com/JasonGrass/auto-extension-manager) - a chrome extension manager where you can add rules
@@ -780,7 +782,7 @@
 - [crsandeep/simple-react-full-stack](https://github.com/crsandeep/simple-react-full-stack) - Boilerplate to build a full stack web application using React, Node.js, Express and Webpack.
 - [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . Translations as PRs to imports/i18n/da
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [TrumanDu/cleaner](https://github.com/TrumanDu/cleaner) - An awesome Kibana plugin for setting elasticsearch index ttl
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发
@@ -1316,6 +1318,7 @@
 
 ## Swift 
 
+- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free al
 - [iAmCorey/birth](https://github.com/iAmCorey/birth) - 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
@@ -1360,7 +1363,6 @@
 ## TypeScript 
 
 - [wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror) - 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
-- [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file
 - [norahe0304-art/30x-video](https://github.com/norahe0304-art/30x-video) - One URL in, an agency-grade launch video out. A Claude Code skill (Remotion + React) with a 16-law taste codex — 12 brands, 12 worlds, zero templates.
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
@@ -1393,7 +1395,7 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [pbstar/fitview](https://github.com/pbstar/fitview) - fitview 是一个视口自适应 js 插件，它支持多种适配模式，能够快速实现大屏自适应效果。
+- [pbstar/fitview](https://github.com/pbstar/fitview) - 视口自适应 JS 插件，一行代码让固定尺寸的大屏设计稿自适应任意容器，支持 fill / contain / scroll / hidden 四种适配模式。
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
