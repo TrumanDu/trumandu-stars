@@ -311,7 +311,6 @@
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [xxlllq/system_architect](https://github.com/xxlllq/system_architect) - :100: 2026年系统架构设计师（软考高级）备考资料。
-- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [skr-shop/manuals](https://github.com/skr-shop/manuals) - Do design No code 💻📱🛒📚
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
@@ -339,6 +338,7 @@
 
 ## Java 
 
+- [iflytek/astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) - Build distributed, production-grade, long-running agents.
 - [lakernote/easy-postman](https://github.com/lakernote/easy-postman) - An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 - [Leavesfly/TinyAI](https://github.com/Leavesfly/TinyAI) - 全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。
@@ -412,6 +412,7 @@
 - [jd-opensource/joyqueue](https://github.com/jd-opensource/joyqueue) - A cloud-native production-quality messaging platform with high performance
 - [alchemystar/Freedom](https://github.com/alchemystar/Freedom) - 自己DIY一个具有ACID的数据库
 - [pinterest/DoctorK](https://github.com/pinterest/DoctorK) - DoctorK is a service for Kafka cluster auto healing and workload balancing
+- [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - ✨ 开源、免费、一站式 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式 Session 会话、微服务网关鉴权、SSO 单点登录、OAuth2.0 统一认证、jwt 集成、API Key 秘钥授权、API 参数签名
 - [luxiaoxun/NettyRpc](https://github.com/luxiaoxun/NettyRpc) - A simple RPC framework based on Netty, ZooKeeper and Spring
 - [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.
 - [shusheng007/design-patterns](https://github.com/shusheng007/design-patterns) - 使用最浅显的语言呈现设计模式，力争让每一位程序员都看得懂
@@ -1247,7 +1248,7 @@
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
@@ -1321,7 +1322,7 @@
 
 ## Swift 
 
-- [vorssaintapp/vorssaint-utils](https://github.com/vorssaintapp/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+- [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free al
 - [iAmCorey/birth](https://github.com/iAmCorey/birth) - 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
@@ -1527,7 +1528,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
+- [konvajs/react-konva](https://github.com/konvajs/react-konva) - React components for the Konva 2d canvas library. Build interactive graphics, design editors, and whiteboards with JSX.
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [bytedance/guide](https://github.com/bytedance/guide) - A new feature guide component by react 🧭
 - [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
