@@ -360,7 +360,6 @@
 - [liaochong/myexcel](https://github.com/liaochong/myexcel) - MyExcel, a new way to operate excel!
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel、FastExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [stateIs0/exp](https://github.com/stateIs0/exp) - Java extension plugin and hot swap plugin（Java 扩展点/插件系统，支持热插拔，旨在解决大部分软件的功能定制问题）
 - [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
@@ -1070,6 +1069,7 @@
 ## PHP 
 
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [w7corp/easywechat](https://github.com/w7corp/easywechat) - 📦 一个 PHP 微信 SDK
 
 ## PowerShell 
@@ -1405,6 +1405,7 @@
 - [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [pbstar/fitview](https://github.com/pbstar/fitview) - 视口自适应 JS 插件，一行代码让固定尺寸的大屏设计稿自适应任意容器，支持 fill / contain / scroll / hidden 四种适配模式。
+- [copicseal/copicseal](https://github.com/copicseal/copicseal) - Copicseal is an EXIF-based photo watermarking tool for adding camera settings like shutter speed and ISO. Copicseal（可图匠）是一款基于 EXIF 的图片边框水印工具。
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [qiaoshouqing/familytree](https://github.com/qiaoshouqing/familytree) - A minimalist open-source family tree website project.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
@@ -1462,10 +1463,10 @@
 - [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sleepy-zone/fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 👻 A creative editor based on fabricjs. 一款基于 fabricjs 的开源创意图片编辑器，旨在让开发者快速构建属于自己的图片编辑器。可应用于海报设计、小红书公众号封面设计、banner 设计等场景。
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [juzisang/picgo-plugin-compress](https://github.com/juzisang/picgo-plugin-compress) - Image compression plugin for PicGo
@@ -1628,7 +1629,6 @@
 
 - [lzt1008/powerflow](https://github.com/lzt1008/powerflow) - macOS App for monitoring power usage and charging status
 - [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
-- [copicseal/copicseal](https://github.com/copicseal/copicseal) - Copicseal is an EXIF-based photo watermarking tool for adding camera settings like shutter speed and ISO. Copicseal（可图匠）是一款基于 EXIF 的图片边框水印工具。
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [ikuaitu/vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
