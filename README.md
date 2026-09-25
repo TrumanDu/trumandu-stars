@@ -344,7 +344,7 @@
 - [lakernote/easy-postman](https://github.com/lakernote/easy-postman) - An open-source API debugging and stress testing tool inspired by Postman and a simplified JMeter, optimized for developers with a clean UI and powerful features.
 - [Leavesfly/TinyAI](https://github.com/Leavesfly/TinyAI) - 全栈式轻量级AI框架，TinyAI IS ALL YOU NEED。
 - [caoccao/Javet](https://github.com/caoccao/Javet) - Javet is Java + V8 (JAVa + V + EighT). It is an awesome way of embedding Node.js and V8 in Java.
-- [beehive-lab/jllm](https://github.com/beehive-lab/jllm) - AI inference engine for Java in Java. Fast.
+- [beehive-lab/jitllm](https://github.com/beehive-lab/jitllm) - Java Inference Tornado toolkit: High performance LLM inference & serving for the JVM
 - [alibaba/fastjson2](https://github.com/alibaba/fastjson2) - 🚄 FASTJSON2 is a Java JSON  library with excellent performance.
 - [apache/fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.
 - [wgzhao/Addax](https://github.com/wgzhao/Addax) - Actively maintained successor to Alibaba DataX — a fast, versatile, open-source ETL tool for 20+ RDBMS and NoSQL data sources.
@@ -360,6 +360,7 @@
 - [liaochong/myexcel](https://github.com/liaochong/myexcel) - MyExcel, a new way to operate excel!
 - [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 - [softwaremill/jox](https://github.com/softwaremill/jox) - Virtual-thread based safe concurrency & streaming
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [pig-mesh/excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - 本项目旨在为用户提供一个便捷的 Excel 导出解决方案。基于阿里巴巴的 EasyExcel、FastExcel 库，结合 Spring Boot 框架，封装并优化了 Excel 文件的导出流程，帮助开发者更高效地实现数据导出功能。
 - [stateIs0/exp](https://github.com/stateIs0/exp) - Java extension plugin and hot swap plugin（Java 扩展点/插件系统，支持热插拔，旨在解决大部分软件的功能定制问题）
 - [86dbs/dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
@@ -1174,7 +1175,7 @@
 - [wzhe06/Reco-papers](https://github.com/wzhe06/Reco-papers) - Classic papers and resources on recommendation
 - [jeykigung/P5](https://github.com/jeykigung/P5) - 
 - [baichuan-inc/Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
-- [jackvale/rectg](https://github.com/jackvale/rectg) - Telegram频道群组推荐
+- [rooktwo/rectg](https://github.com/rooktwo/rectg) - Telegram频道群组推荐
 - [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
@@ -1463,7 +1464,6 @@
 - [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 - [dashpresshq/dashpress](https://github.com/dashpresshq/dashpress) - Generate powerful admin apps without writing a single line of code - Run `npx dashpress` to see some magic!
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [sleepy-zone/fabritor-web](https://github.com/sleepy-zone/fabritor-web) - 👻 A creative editor based on fabricjs. 一款基于 fabricjs 的开源创意图片编辑器，旨在让开发者快速构建属于自己的图片编辑器。可应用于海报设计、小红书公众号封面设计、banner 设计等场景。
 - [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
