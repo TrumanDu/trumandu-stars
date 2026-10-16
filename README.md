@@ -53,7 +53,7 @@
 
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Batchfile 
@@ -804,7 +804,6 @@
 - [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [FrankFan/gitlab-tree](https://github.com/FrankFan/gitlab-tree) - :palm_tree: Chrome extension to display Gitlab code in tree format. Now support Gitlab 9.x
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [nenadmarkus/picojs](https://github.com/nenadmarkus/picojs) - A face detection library in 200 lines of JavaScript
 - [TrumanDu/bmap](https://github.com/TrumanDu/bmap) - An awesome Kibana plugin for bmap
 - [TrumanDu/indices_view](https://github.com/TrumanDu/indices_view) - An awesome kibana plugin for view indies!
@@ -1096,7 +1095,7 @@
 - [browser-act/skills](https://github.com/browser-act/skills) - Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated m
 - [MeiGen-AI/PosterCraft](https://github.com/MeiGen-AI/PosterCraft) - [ICLR2026] Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) - Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板"抄"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw s
@@ -1152,6 +1151,7 @@
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [benfred/implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Feedback Datasets
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - See, hear, and interact on your local devices.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [lavague-ai/LaVague](https://github.com/lavague-ai/LaVague) - Large Action Model framework to develop AI Web Agents
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -1207,7 +1207,6 @@
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) - PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
@@ -1283,7 +1282,7 @@
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [joeseesun/terminal-boost](https://github.com/joeseesun/terminal-boost) - 🚀 一键打造现代化终端环境 - Oh My Zsh + Powerlevel10k + 现代 CLI 工具套装
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -1331,7 +1330,7 @@
 
 ## Swift 
 
-- [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
+- [fif7y/pliss](https://github.com/fif7y/pliss) - A calm menu bar, done the native way. Hides the icons you don't need until you do.
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free
 - [iAmCorey/birth](https://github.com/iAmCorey/birth) - 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
@@ -1368,7 +1367,7 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - Native client of TinyPNG on macOS
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, distraction-free writing app to help you write great sentences.
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
 
 ## TeX 
 
@@ -1402,7 +1401,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [hoochanlon/Free-NTFS-for-Mac](https://github.com/hoochanlon/Free-NTFS-for-Mac) - Nigate: An open-source NTFS utility for Mac. It supports all Mac models (Intel and Apple Silicon), providing full read-write access, mounting, and management for NTFS drives.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana pro🍌
+- [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一站式原生AI PPT生成应用，几分钟内生成一套幻灯片; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt、视频等 - An AI-native slides generator based on nano banana/gpt-image🏞️
 - [CaoMeiYouRen/caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth) - 草梅 Auth 是一个基于 Nuxt 全栈框架的统一登录平台。支持 OAuth2.0 协议，集成邮箱、用户名、手机号、验证码、社交媒体等多种登录注册方式。
 - [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - An AI prompt optimizer for writing better prompts and getting better AI results.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
@@ -1447,7 +1446,6 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [PageAI-Pro/page-ui](https://github.com/PageAI-Pro/page-ui) - 📃 Landing page UI components for React & Next.js, built on top of TailwindCSS
 - [shellscape/jsx-email](https://github.com/shellscape/jsx-email) - Build emails with a delightful DX
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
@@ -1588,6 +1586,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -1621,6 +1620,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [creativetimofficial/ui](https://github.com/creativetimofficial/ui) - Open-source components, blocks, and AI agents designed to speed up your workflow. Import them seamlessly into your favorite tools through Registry and MCPs.
 - [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript.
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
@@ -1658,7 +1658,6 @@
 - [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
 - [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
 - [johnsusek/praeco](https://github.com/johnsusek/praeco) - Elasticsearch alerting made simple.
 - [gaoyoubo/hexo-client](https://github.com/gaoyoubo/hexo-client) - hexo-client: A cross-platform hexo client, build on electron.
