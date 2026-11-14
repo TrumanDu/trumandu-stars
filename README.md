@@ -179,7 +179,7 @@
 
 - [Licoy/sshyard](https://github.com/Licoy/sshyard) - SSHYard is a native desktop SSH / SFTP client for macOS, Windows and Linux, bringing terminals, file management and AI assistance into one app. | SSHYard 是一款跨平台桌面 SSH / SFTP 客户端，支持 macOS、Windows 和 Lin
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
-- [alibaba/skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
+- [alibaba/skill-up](https://github.com/alibaba/skill-up) - Evaluate Agent Skills and environments. Evolve Skills with evidence.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [9bingyin/Gist](https://github.com/9bingyin/Gist) - A modern RSS reader application built with React and Go.
@@ -263,7 +263,7 @@
 - [Allenxuxu/gev](https://github.com/Allenxuxu/gev) - 🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.
 - [hoanhan101/ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
 - [linkedin/Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking
-- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~ 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~
 - [grepplabs/kafka-proxy](https://github.com/grepplabs/kafka-proxy) - Proxy connections to Kafka cluster. Connect through SOCKS Proxy, HTTP Proxy or to cluster running in Kubernetes.
 - [alphali/godis](https://github.com/alphali/godis) - redis golang implementation
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur
@@ -305,6 +305,7 @@
 
 ## HTML 
 
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [ricocc/ricoui-design-md](https://github.com/ricocc/ricoui-design-md) - ricoui-design-md is a local-first design-system workspace built around `DESIGN.md`.
 - [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 搞快点
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
@@ -1189,7 +1190,7 @@
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [TigerResearch/TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The agent-native framework for data apps and dashboards.
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
