@@ -1091,6 +1091,7 @@
 
 ## Python 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks
 - [WANGXIN-567/weread-book-exporter](https://github.com/WANGXIN-567/weread-book-exporter) - 📚 微信读书无损全书导出工具 — 一键导出双字体精排 PDF / EPUB / 纯 Markdown 笔记（适配 Obsidian & Notion），攻克网页端翻页漏字问题。
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [alchaincyf/huashu-report](https://github.com/alchaincyf/huashu-report) - 机构级研究报告 Agent Skill · 规范从 2026 年顶级机构报告实物反向提炼，42 份采集／41 份进量化基线（Stanford/McKinsey/BCG/OpenAI/PwC/World Bank 等）· 六种报告原型 + 8 种图表模式 + 可复用生产流水线 · 跨 agent 通用
